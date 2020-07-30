@@ -1,0 +1,65 @@
+* History of Programming Languages
+
+Catalog of programming languages and their history.
+
+* Plankälkul
+
+* FORTRAN
+
+* LISP
+
+* ALGOL
+
+* Emacs Lisp
+
+* LCF
+
+* Scheme
+
+* Chicken Scheme
+
+* ML
+
+* COBOL
+
+* PASCAL
+
+* C
+
+* Forth
+
+* Erlang
+
+* PL/I
+
+* Ada
+
+* Factor
+
+* C++
+
+* Coq
+
+* Befunge
+
+* Java
+
+* Go
+
+* Inform
+
+* Piet
+
+* Javascript
+
+* Clojure
+
+* Elixir
+
+* Jot
+
+* Iota
+
+* LASP
+
+* Elm
