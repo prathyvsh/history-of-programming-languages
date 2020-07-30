@@ -16,6 +16,10 @@ Catalog of programming languages and their history.
 
 * Scheme
 
+** Scheme 311
+
+Ancestory of MacScheme. First version written by Eugene KohlBecker.
+
 * Chicken Scheme
 
 * ML
