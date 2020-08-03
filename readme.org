@@ -2,6 +2,22 @@
 
 Catalog of programming languages and their history.
 
+The history of building programming languages is preceeded by works in algebra, mathematical logic, and constructivism.
+
+* Prior Art
+* Syllogisms and ancient/medieval computation devices.
+* Emergence of Algebraic language
+* Marriage of logic and algebra
+* Peirce/Frege revolution
+* Logic of relatives
+* Constructivism vs. Formalism
+* Logicism
+* Schönfinkel operators
+* Gödel numbering
+Gödel’s work can in essence be thought of as having a programming language. This is taken up by Chaitin in his book on algorithmic complexity.
+
+* Category theory
+
 * Plankälkul
 
 * FORTRAN
@@ -9,6 +25,8 @@ Catalog of programming languages and their history.
 * LISP
 
 * ALGOL
+
+* Peter Landin
 
 * Emacs Lisp
 
