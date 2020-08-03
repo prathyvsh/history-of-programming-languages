@@ -15,6 +15,9 @@ The history of building programming languages is preceeded by works in algebra, 
 * Schönfinkel operators
 * Gödel numbering
 Gödel’s work can in essence be thought of as having a programming language. This is taken up by Chaitin in his book on algorithmic complexity.
+* Emergence of computational formalisms
+
+Curry/Schönfinkel, Russell/Post, Church, Gödel, Turing, Von Neumann/McCullough Pitts
 
 * Category theory
 
