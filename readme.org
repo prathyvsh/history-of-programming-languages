@@ -19,7 +19,14 @@ Gödel’s work can in essence be thought of as having a programming language. T
 
 Curry/Schönfinkel, Russell/Post, Church, Gödel, Turing, Von Neumann/McCullough Pitts
 
+* Inception of semantic studies
+
+* Continuations
+
 * Category theory
+
+* F-Algebras / Origami Programming
+Work by Erik Meijer, Richard Bird, Maarten Fokkinga, Ross Paterson, Jeremy Gibbons
 
 * Plankälkul
 
@@ -36,6 +43,8 @@ Curry/Schönfinkel, Russell/Post, Church, Gödel, Turing, Von Neumann/McCullough
 * LCF
 
 * Scheme
+
+Inspired from work on ALGOL, and Actor model by Hewitt
 
 ** Scheme 311
 
@@ -58,6 +67,10 @@ Ancestory of MacScheme. First version written by Will Clinger.
 * PL/I
 
 * Ada
+
+* Simula
+
+* Smalltalk
 
 * Factor
 
